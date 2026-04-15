@@ -1,0 +1,40 @@
+**Prerequisites**
+
+Ubuntu Linux
+Docker & Docker Compose
+
+Installation Steps
+
+Install Docker:
+
+sudo apt update
+
+sudo apt install docker.io -y
+
+Install Docker Compose:
+
+sudo apt install docker-compose -y
+
+
+Clone Repository:
+
+git clone https://github.com/intuitem/ciso-assistant.git
+
+Navigate to directory:
+
+cd ciso-assistant
+
+
+Run application:
+
+docker-compose up -d
+
+Access the application:
+
+https://localhost:8443
+
+
+Notes
+Configure admin credentials during setup
+Ensure required ports are open
+Use browser to access dashboard
