@@ -20,15 +20,11 @@ Ubuntu Linux
 
 Identified risks:
 
-Weak Password Policy
-Unpatched Server
-Open Ports Exposure
-Malware Infection
+Weak Password Policy, Unpatched Server, Open Ports Exposure, Malware Infection
 
 Each risk was evaluated based on:
 
-Impact
-Likelihood
+Impact, Likelihood
 
 **3. Controls Implementation**
 
@@ -45,6 +41,7 @@ Performed audit and gap analysis
 
 **6. Risk Mitigation**
 Mapped risks to controls
+
 Created remediation actions
 
 
@@ -58,14 +55,20 @@ Created remediation actions
 
 **Key Outcomes**
 Structured risk assessment process
+
 Improved asset visibility
+
 Practical implementation of security controls
+
 Hands-on experience in GRC (Governance, Risk, Compliance)
 
 **Key Learnings**
 Risk-based security approach
+
 Asset-centric risk management
+
 Control mapping and mitigation strategies
+
 Real-world GRC workflow implementation
 
 
