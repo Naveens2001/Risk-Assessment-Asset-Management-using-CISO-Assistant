@@ -14,10 +14,7 @@ Ubuntu Linux
 
 **Project Implementation**
 1. Asset Management
-Web Server
-Database Server
-Employee Laptop
-Firewall
+   Web Server, Database Server, Employee Laptop, Firewall
 
 **2. Risk Assessment**
 
