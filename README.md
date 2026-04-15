@@ -82,6 +82,7 @@ Created remediation actions
 
 
 **Key Outcomes**
+
 Structured risk assessment process
 
 Improved asset visibility
@@ -91,6 +92,7 @@ Practical implementation of security controls
 Hands-on experience in GRC (Governance, Risk, Compliance)
 
 **Key Learnings**
+
 Risk-based security approach
 
 Asset-centric risk management
