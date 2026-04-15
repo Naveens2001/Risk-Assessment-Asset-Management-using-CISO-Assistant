@@ -16,17 +16,33 @@ Ubuntu Linux
 **Project Implementation**
 
 **1. Asset Management**
-   Web Server, Database Server, Employee Laptop, Firewall
+   Web Server
+   
+   Database Server
+   
+   Employee Laptop
+   
+   Firewall
 
 **2. Risk Assessment**
 
 Identified risks:
 
-Weak Password Policy, Unpatched Server, Open Ports Exposure, Malware Infection
+Weak Password Policy
+
+Unpatched Server
+
+Open Ports Exposure
+
+Malware Infection
+
+
 
 Each risk was evaluated based on:
 
-Impact, Likelihood
+Impact
+
+Likelihood
 
 **3. Controls Implementation**
 
