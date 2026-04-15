@@ -66,14 +66,20 @@ Mapped risks to controls
 
 Created remediation actions
 
+<img width="1852" height="842" alt="image" src="https://github.com/user-attachments/assets/e579a2c8-4584-49a2-87a8-c42a7c883b2c" />
+
 
 <img width="1851" height="844" alt="image" src="https://github.com/user-attachments/assets/b139bd3c-41f4-4fcc-91e6-14d9eea78e81" />
 
+
 <img width="1851" height="802" alt="image" src="https://github.com/user-attachments/assets/6d096ce4-708a-41e0-afe0-969f807b8bb4" />
+
 
 <img width="1848" height="762" alt="image" src="https://github.com/user-attachments/assets/d25adcbf-ecc4-4242-afb2-9939a05e84a8" />
 
+
 <img width="1853" height="804" alt="image" src="https://github.com/user-attachments/assets/f776e505-3c88-4351-a9b3-0480b9da145d" />
+
 
 **Key Outcomes**
 Structured risk assessment process
