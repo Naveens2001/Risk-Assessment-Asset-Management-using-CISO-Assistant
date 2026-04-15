@@ -10,9 +10,11 @@ Improve organizational security posture
 
 **Tools Used**
 CISO Assistant
+
 Ubuntu Linux
 
 **Project Implementation**
+
 **1. Asset Management**
    Web Server, Database Server, Employee Laptop, Firewall
 
@@ -31,12 +33,16 @@ Impact, Likelihood
 Implemented controls:
 
 Access Control
+
 Patch Management
+
 Firewall Rules
+
 Antivirus Protection
 
 **4. Compliance**
 Implemented ISO 27001 framework
+
 Performed audit and gap analysis
 
 **6. Risk Mitigation**
