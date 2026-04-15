@@ -13,7 +13,7 @@ CISO Assistant
 Ubuntu Linux
 
 **Project Implementation**
-1. Asset Management
+**1. Asset Management**
    Web Server, Database Server, Employee Laptop, Firewall
 
 **2. Risk Assessment**
@@ -48,4 +48,24 @@ Mapped risks to controls
 Created remediation actions
 
 
-<img width="696" height="321" alt="image" src="https://github.com/user-attachments/assets/bccb2421-1347-4d1b-8990-2a432c206517" />
+<img width="1851" height="844" alt="image" src="https://github.com/user-attachments/assets/b139bd3c-41f4-4fcc-91e6-14d9eea78e81" />
+
+<img width="1851" height="802" alt="image" src="https://github.com/user-attachments/assets/6d096ce4-708a-41e0-afe0-969f807b8bb4" />
+
+<img width="1848" height="762" alt="image" src="https://github.com/user-attachments/assets/d25adcbf-ecc4-4242-afb2-9939a05e84a8" />
+
+<img width="1853" height="804" alt="image" src="https://github.com/user-attachments/assets/f776e505-3c88-4351-a9b3-0480b9da145d" />
+
+**Key Outcomes**
+Structured risk assessment process
+Improved asset visibility
+Practical implementation of security controls
+Hands-on experience in GRC (Governance, Risk, Compliance)
+
+**Key Learnings**
+Risk-based security approach
+Asset-centric risk management
+Control mapping and mitigation strategies
+Real-world GRC workflow implementation
+
+
