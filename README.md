@@ -81,6 +81,10 @@ Created remediation actions
 <img width="1853" height="804" alt="image" src="https://github.com/user-attachments/assets/f776e505-3c88-4351-a9b3-0480b9da145d" />
 
 
+
+
+
+
 **Key Outcomes**
 
 Structured risk assessment process
